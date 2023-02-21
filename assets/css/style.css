@@ -1159,8 +1159,7 @@ main {
 }
 
 @media screen and (max-width: 500px){
-    #slider label,
-    #slider label img {
+    .carousel {
         height: 60%;  
     }
 }
