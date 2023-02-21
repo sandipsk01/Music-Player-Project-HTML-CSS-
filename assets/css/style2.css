@@ -523,7 +523,7 @@ footer {
     position: fixed;
     bottom: 0px;
     width: 100%;
-    background-color: #282828;
+    background-color: #454545;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -531,6 +531,8 @@ footer {
     z-index: 5;
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
+    height:74px;
+    margin-left: -50px;
 }
 
 #footer-song-info {
@@ -814,3 +816,8 @@ aside {
         font-size: 17px;
     }
 }
+
+@media screen and (max-width: 767px){
+    footer {
+        margin-left: 0px;
+    }
