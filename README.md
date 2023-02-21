@@ -1,1 +1,1 @@
-# Music-Player-Project-HTML-CSS
+# Music-Player-Project-Using-HTML-and-CSS
