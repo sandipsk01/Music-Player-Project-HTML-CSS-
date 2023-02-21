@@ -551,7 +551,7 @@ footer {
     height: 4rem;
     width: 4rem;
     margin: 1vh;
-    background: url("assets/1.jpg") center no-repeat;
+    background: url("../queue/peaches.jpg") center no-repeat;
     background-size: contain;
 }
 
