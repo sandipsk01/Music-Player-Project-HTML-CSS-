@@ -950,6 +950,7 @@ footer {
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
     height:74px;
+    margin-left: -50px;
 }
 
 #footer-song-info {
